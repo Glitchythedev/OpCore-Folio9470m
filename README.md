@@ -1,8 +1,11 @@
 # OpenCore EFI for HP EliteBook Folio 9470m
 
 ## Product Specifications
-Resolution: 1600x900
-
+CPU: Intel Core i5-3427U\
+GPU: Intel HD Graphics 4000\
+Resolution: 1600x900\
+Keyboard: Standard PS/2 Keyboard\
+Trackpad: Synaptics SMBus Trackpad
 
 ## Version
 Tested on MacOS Big Sur (11.7.10)
@@ -11,7 +14,12 @@ Tested on MacOS Big Sur (11.7.10)
 ### ✅ - Fully added support
 ### ⚠️ - Partially supported
 ### ❌ - Not supported 
-
+&nbsp;
 |Feature|Status|
-|-------|------|
-|Display| ✅   |
+|:-----:|:----:|
+|Display|✅|
+|Audio  |✅|
+|Trackpad|✅|
+|Keyboard|✅|
+|USB Ports|✅|
+|Graphics|✅|
