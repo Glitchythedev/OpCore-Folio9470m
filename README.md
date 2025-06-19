@@ -3,6 +3,7 @@
 ## Product Specifications
 CPU: Intel Core i5-3427U\
 GPU: Intel HD Graphics 4000\
+RAM: 8 GB(Expandable up to 16 GB)\
 Resolution: 1600x900\
 Keyboard: Standard PS/2 Keyboard\
 Trackpad: Synaptics SMBus Trackpad
@@ -14,7 +15,6 @@ Tested on MacOS Big Sur (11.7.10)
 ### ✅ - Fully added support
 ### ⚠️ - Partially supported
 ### ❌ - Not supported 
-&nbsp;
 |Feature|Status|
 |:-----:|:----:|
 |Display|✅|
@@ -23,3 +23,5 @@ Tested on MacOS Big Sur (11.7.10)
 |Keyboard|✅|
 |USB Ports|✅|
 |Graphics|✅|
+|Wi-Fi|✅|
+|Bluetooth|❌|
