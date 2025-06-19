@@ -38,6 +38,14 @@
 				<key>Path</key>
 				<string>SSDT-XOSI.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-PM.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-PM.aml</string>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
@@ -47,7 +55,7 @@
 				<key>Comment</key>
 				<string>Delete CpuPm</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>OemTableId</key>
 				<data>Q3B1UG0AAAA=</data>
 				<key>TableLength</key>
@@ -61,7 +69,7 @@
 				<key>Comment</key>
 				<string>Delete Cpu0Ist</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>OemTableId</key>
 				<data>Q3B1MElzdAA=</data>
 				<key>TableLength</key>
@@ -1434,13 +1442,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>&lt;yourown&gt;</string>
+			<string>C02407701GUFD47UE</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>AAAAAA==</data>
+			<data>xNmHAAni</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1448,9 +1456,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookAir6,2</string>
 			<key>SystemSerialNumber</key>
-			<string>&lt;yourown&gt;</string>
+			<string>C02M80SBF5V7</string>
 			<key>SystemUUID</key>
-			<string>&lt;yourown&gt;</string>
+			<string>31B49089-FDEE-4FB6-9180-187418FD6CF9</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
