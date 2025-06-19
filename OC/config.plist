@@ -1434,13 +1434,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02407701GUFD47UE</string>
+			<string>&lt;yourown&gt;</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>xNmHAAni</data>
+			<data>AAAAAA==</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1448,9 +1448,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookAir6,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02M80SBF5V7</string>
+			<string>&lt;yourown&gt;</string>
 			<key>SystemUUID</key>
-			<string>31B49089-FDEE-4FB6-9180-187418FD6CF9</string>
+			<string>&lt;yourown&gt;</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
